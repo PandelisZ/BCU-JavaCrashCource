@@ -222,6 +222,7 @@ public class PasswordCracking
                                         letter6 ++;
                                     }
                             }
+                            
                             letter5 ++;
                             letter6 = 'a';
                             }

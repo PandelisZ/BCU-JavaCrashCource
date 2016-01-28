@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=newMaze
+comment0.target=Solver(Maze)
+comment1.params=
+comment1.target=java.lang.String\ symbol()
+comment2.params=
+comment2.target=Move\ move()
+comment3.params=g\ x\ y
+comment3.target=void\ draw(java.awt.Graphics,\ int,\ int)
+numComments=4

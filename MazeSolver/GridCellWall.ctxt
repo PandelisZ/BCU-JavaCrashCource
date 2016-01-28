@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=newSymbol
+comment0.target=GridCellWall(java.lang.String)
+comment1.params=
+comment1.target=GridCellWall()
+comment2.params=
+comment2.target=java.lang.String\ symbol()
+comment3.params=g\ x\ y
+comment3.target=void\ draw(java.awt.Graphics,\ int,\ int)
+numComments=4

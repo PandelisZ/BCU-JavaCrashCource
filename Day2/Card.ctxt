@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=suit\ rank
+comment0.target=Card(char,\ int)
+comment1.params=
+comment1.target=boolean\ isAce()
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=other
+comment3.target=boolean\ equals(java.lang.Object)
+comment4.params=
+comment4.target=int\ hashCode()
+comment5.params=other
+comment5.target=int\ compareTo(Card)
+numComments=6

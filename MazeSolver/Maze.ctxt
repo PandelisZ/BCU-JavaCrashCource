@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=filename
+comment0.target=Maze(java.lang.String)
+comment1.params=x\ y
+comment1.target=GridCell\ cellAt(int,\ int)
+numComments=2

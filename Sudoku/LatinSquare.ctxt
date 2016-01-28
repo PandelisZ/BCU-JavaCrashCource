@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.params=newSize
+comment0.target=LatinSquare(int)
+comment1.params=symbol
+comment1.target=int\ symbolToPossibility(int)
+comment2.params=x
+comment2.target=int\ possibilityToSymbol(int)
+comment3.params=x\ y
+comment3.target=int\ symbolAt(int,\ int)
+comment4.params=x\ y
+comment4.target=boolean\ isKnown(int,\ int)
+comment5.params=
+comment5.target=void\ print()
+comment6.params=symbol\ x\ y
+comment6.target=boolean\ isPossible(int,\ int,\ int)
+comment7.params=symbol\ x\ y
+comment7.target=void\ markImpossible(int,\ int,\ int)
+comment8.params=x\ y
+comment8.target=int\ numberOfPossibilities(int,\ int)
+comment9.params=x\ y\ s
+comment9.target=void\ insertSymbol(int,\ int,\ int)
+numComments=10

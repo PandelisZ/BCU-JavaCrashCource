@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GetSHA()
+comment1.params=input
+comment1.target=java.lang.String\ GetHash(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ ShowDate()
+comment3.params=input\ maxlength
+comment3.target=java.lang.String\ CrackThisVarlen(java.lang.String,\ int)
+comment4.params=input\ pwlength
+comment4.target=java.lang.String\ CrackThisFixedlen(java.lang.String,\ int)
+numComments=5

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=solver\ panel
+comment0.target=void\ attach(HumanSolver,\ javax.swing.JPanel)
+comment1.params=newMaze
+comment1.target=HumanSolver(Maze)
+comment2.params=
+comment2.target=Move\ move()
+numComments=3
